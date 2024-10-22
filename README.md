@@ -12,11 +12,13 @@ This project is to package a Python script into a Command-Line Tool
 
 ## Tool Description
 MyTool is a command-line interface (CLI) that interacts with an SQLite database.
+That store the information about the student id, name, and major.
 
 ## Guidelines for the Use of Tool
 ### Installation
 Clone the repository and install the tool:
 ```bash
+git clone https://github.com/siyiia/jf361_ids706_mp7.git
 pip install .
 ```
 

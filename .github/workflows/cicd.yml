@@ -1,4 +1,4 @@
-name: Python SQL CI
+name: CI
 
 on:
   push:
