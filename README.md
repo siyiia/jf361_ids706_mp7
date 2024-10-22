@@ -1,5 +1,5 @@
 # jf361_ids706_mp7
-[![Python SQL CI](https://github.com/siyiia/jf361_ids706_mp7/actions/workflows/cicd.yml/badge.svg)](https://github.com/siyiia/jf361_ids706_mp7/actions/workflows/cicd.yml)
+[![CI](https://github.com/siyiia/jf361_ids706_mp7/actions/workflows/cicd.yml/badge.svg)](https://github.com/siyiia/jf361_ids706_mp7/actions/workflows/cicd.yml)
 
 ## Project Introduction
 This project is to package a Python script into a Command-Line Tool
